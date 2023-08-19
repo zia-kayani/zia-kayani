@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zia-kayani" alt="zia-kayani" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerece application for my client](#cant-post-yet)
+- 🔭 I’m currently working on [Multiple projects with freelance platforms.](#cant-post-yet)
 
 - 🌱 I’m currently learning **Blockchain and AI**
 
-- 🤝 I’m looking for help with **any freelance project.**
+- 🤝 I’m looking for help with **working with any farwarding thinking organization.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zia-kayani/zia-kayani](https://github.com/zia-kayani/zia-kayani)
 
-- 📝 I regularly write articles on [https://github.com/zia-kayani/zia-kayani](https://github.com/zia-kayani/zia-kayani)
+- 📝 I regularly write articles on [https://medium.com/@ziakayani.official](https://medium.com/@ziakayani.official)
 
-- 💬 Ask me about **React Js ,Next Js ,Node Js, Express Js, Front end ,**
+- 💬 Ask me about **React Js ,Next Js ,Node Js, Express Js, Front end, JavaScript/TypeScript**
 
 - 📫 How to reach me **ziakayani.official@gmail.com**
 
@@ -34,3 +34,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a><a href="https://ko-fi.com/Ko-fi zia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi zia" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zia-kayani&show_icons=true&locale=en&layout=compact" alt="zia-kayani" /></p>
